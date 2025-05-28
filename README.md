@@ -3,7 +3,7 @@
 
 Estoy estudiando ingeniería informática
 
-Me he dedicado aprender y desarrollar páginas web como[** LINK_BIO **](https://3rik.reflex.run/),
+Me he dedicado aprender y desarrollar páginas web como[** LINK_BIO **](https://link-me-neon-star.reflex.run),
 Desde que comencé a programar me ha interesado más resolver problemas con Python y diseño el interfaz, Me encanta esta comunidad y colaborar con ella.
 
 ## Tecnologías:
@@ -15,4 +15,3 @@ Desde que comencé a programar me ha interesado más resolver problemas con Pyth
 ## Redes Sociales:
 
 [![Instagram](https://img.shields.io/badge/Instagram-@3rikuriel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/3rikuriel?igsh=cDBiOWF1dWczMGtu)
-[![Web](https://img.shields.io/badge/Web-E6-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://3rik.reflex.run/)
